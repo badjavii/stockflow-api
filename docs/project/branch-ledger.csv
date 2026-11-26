@@ -1,4 +1,4 @@
 branch,owner,kind,layer,summary,source,target,created_at,pull_request,status
 main,equipo,release,project,Versión estable,,,2026-11-26,,created
 develop,equipo,integration,project,Integración,main,main,2026-11-26,,created
-chatgpt(docs/spec)-initialization,ChatGPT con equipo humano,docs,spec,Inicialización documental,develop,develop,2026-11-26,,in_progress
+chatgpt(docs/spec)-initialization,ChatGPT con equipo humano,docs,spec,Inicialización documental,develop,develop,2026-11-26,https://github.com/badjavii/stockflow-api/pull/1,in_review
